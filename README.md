@@ -80,14 +80,6 @@ Le projet utilise plusieurs alias pour référencer les dossiers plus facilement
 @Scripts : ./src/scripts
 @FontsSolid : ./theme/styles/assets/solid/scss
 @FontsOutline : ./theme/styles/assets/outline/scss
-7. Exécution de commandes personnalisées
-Le script est conçu pour être flexible et facilement personnalisable. Si vous avez besoin d'ajouter des options supplémentaires ou d'inclure d'autres extensions de fichiers dans le processus de build ou de watch, vous pouvez ajuster le code dans build.js.
-
-Contribuer
-Les contributions sont les bienvenues. Si vous trouvez des bogues ou avez des suggestions pour améliorer ce projet, n'hésitez pas à ouvrir une issue ou à proposer une pull request.
-
-Auteurs
-Développé par [votre nom].
 
 Licence
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus d'informations.
